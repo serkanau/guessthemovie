@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "499503220653",
+    "firebase_url": "https://guessthemovie-dcb6b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "guessthemovie-dcb6b",
+    "storage_bucket": "guessthemovie-dcb6b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499503220653:android:8fbc3691a2ba7d394ac324",
+        "android_client_info": {
+          "package_name": "com.edkagames.guessthemovie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Yqtw6YGK5CC4AgSG598HNToWRQRrs1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499503220653:android:5e1f55404ab50d3e4ac324",
+        "android_client_info": {
+          "package_name": "com.example.guessthemovie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Yqtw6YGK5CC4AgSG598HNToWRQRrs1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

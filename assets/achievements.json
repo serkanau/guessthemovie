@@ -1,0 +1,23 @@
+[
+  {
+    "id": "first_correct",
+    "title": "Yeni Başlayan",
+    "desc": "İlk doğru tahminini yaptın!",
+    "type": "total_correct",
+    "value": 1
+  },
+  {
+    "id": "ten_correct",
+    "title": "Film Meraklısı",
+    "desc": "10 filmi doğru tahmin ettin.",
+    "type": "total_correct",
+    "value": 10
+  },
+  {
+    "id": "streak_3",
+    "title": "Keskin Hafıza",
+    "desc": "3 hatasız üst üste bildin.",
+    "type": "streak_days",
+    "value": 3
+  }
+]

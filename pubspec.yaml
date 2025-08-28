@@ -1,0 +1,33 @@
+name: guessthemovie
+description: "Guess The Movie"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^4.0.0
+  firebase_auth: ^6.0.1
+  firebase_database: ^12.0.0
+  connectivity_plus: ^6.1.5
+  shared_preferences: ^2.5.3
+  cached_network_image: ^3.4.1
+  google_fonts: ^6.3.0
+  lottie: ^3.3.1
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/keywords.json
+    - assets/achievements.json
